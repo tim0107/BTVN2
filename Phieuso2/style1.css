@@ -1,0 +1,19 @@
+
+body {
+    background-color: rgb(172, 104, 8);
+    background-image: url(image1.jpeg);
+    background-repeat: no-repeat;
+    background-position: center 100px ; 
+
+}
+#title{
+    color: rgb(235, 188, 49);
+
+}
+
+p {
+    position: relative;
+    z-index: 1;
+    padding: 20px;
+    color: white;
+}

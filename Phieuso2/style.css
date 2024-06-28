@@ -1,0 +1,46 @@
+.div1{
+    background-color: lightblue;
+}
+
+
+#h1-1 {
+    text-indent: 100px;
+    color: white;
+}
+
+
+
+
+
+
+
+#h3{
+    text-align: center;
+    color: green;
+}
+.red{
+    color: #FF0000;
+}
+#div3 {
+    color: #0000CC;
+    background-color: #CCCCCC;
+    
+    
+}
+#p1{
+    text-indent: 250px;
+}
+#p2{
+    text-indent: 300px;
+}
+#p3{
+    text-indent: 250px;
+}
+.pclass{
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+.div4 {
+    font-style: italic;
+}

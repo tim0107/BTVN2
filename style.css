@@ -1,0 +1,39 @@
+#bai1 {
+    color: red;
+}
+
+
+#body2 {
+ background-color: #FFD2FF;
+}
+#p1{
+    text-indent: 50px;
+    padding: 3px;
+}
+#span1{
+    color: lightblue;
+}
+#h1{ 
+    color: #4CAF50;
+    text-align: center;
+}
+#div3 {
+    text-align: center;
+    background-color: #FFFFCC;
+    font-style: italic;
+}
+#h1-3{
+  font-weight: bold;
+  color: #FF3399;
+  background-color: #FECFFD;
+  text-align: center;
+}
+#p1-3{
+    color: blue;
+}
+#p2-3{
+    color: red;
+}
+#p3-3{
+    color: #4CAF50;
+}
